@@ -1,7 +1,3 @@
-# 💫 About Me:
-Backend developer 🐘<br>No. 1 Hobby Horsing fan 🐴🦵<br>Biggest Mateusz "Kopyt" Kopiejć hater 😜
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jqF6cW97Zf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meeco_y) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@meeco_y) 
 
